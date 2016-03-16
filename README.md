@@ -1,2 +1,3 @@
 # SEW_15-16
-Test repository. school exercise
+Learning to use git are:
+Patrick Heinzel 3AHIT/TGM
